@@ -1,0 +1,164 @@
+{
+    "users":[
+        {
+         "createdAt": "2021-07-07T20:58:41.253Z",
+         "name": "Roosevelt Johnson III",
+         "avatar": "https://cdn.fakercloud.com/avatars/cloudstudio_128.jpg",
+         "gmail": "Laurianne90@yahoo.com",
+         "phoneNumber": "(856) 254-9123 x7594",
+         "id": "1"
+        },
+        {
+         "createdAt": "2021-07-07T18:29:22.811Z",
+         "name": "Geneva Smith",
+         "avatar": "https://cdn.fakercloud.com/avatars/daniloc_128.jpg",
+         "gmail": "Yolanda_Mayer@yahoo.com",
+         "phoneNumber": "(265) 403-3362 x414",
+         "id": "2"
+        },
+        {
+         "createdAt": "2021-07-08T11:52:20.212Z",
+         "name": "Brian Mills",
+         "avatar": "https://cdn.fakercloud.com/avatars/anthonysukow_128.jpg",
+         "gmail": "Gaetano22@gmail.com",
+         "phoneNumber": "763.294.4416 x87790",
+         "id": "3"
+        },
+        {
+         "createdAt": "2021-07-08T08:33:06.971Z",
+         "name": "Lindsey Hills",
+         "avatar": "https://cdn.fakercloud.com/avatars/ryankirkman_128.jpg",
+         "gmail": "Maegan.Hodkiewicz35@yahoo.com",
+         "phoneNumber": "301-486-6216",
+         "id": "4"
+        },
+        {
+         "createdAt": "2021-07-07T16:52:43.691Z",
+         "name": "Tom Veum",
+         "avatar": "https://cdn.fakercloud.com/avatars/chatyrko_128.jpg",
+         "gmail": "Erin11@hotmail.com",
+         "phoneNumber": "538.597.0983 x20328",
+         "id": "5"
+        },
+        {
+         "createdAt": "2021-07-08T06:29:13.969Z",
+         "name": "Felipe Welch",
+         "avatar": "https://cdn.fakercloud.com/avatars/mohanrohith_128.jpg",
+         "gmail": "Merritt19@gmail.com",
+         "phoneNumber": "604-688-1217",
+         "id": "6"
+        },
+        {
+         "createdAt": "2021-07-07T14:31:36.301Z",
+         "name": "Misty Greenholt",
+         "avatar": "https://cdn.fakercloud.com/avatars/edgarchris99_128.jpg",
+         "gmail": "Jolie_Wisozk64@yahoo.com",
+         "phoneNumber": "308-383-7198",
+         "id": "7"
+        },
+        {
+         "createdAt": "2021-07-07T14:57:58.146Z",
+         "name": "Kyle Bergstrom",
+         "avatar": "https://cdn.fakercloud.com/avatars/smenov_128.jpg",
+         "gmail": "Daija27@gmail.com",
+         "phoneNumber": "(459) 938-7947 x1371",
+         "id": "8"
+        },
+        {
+         "createdAt": "2021-07-08T04:11:02.598Z",
+         "name": "Mrs. Kelley Adams",
+         "avatar": "https://cdn.fakercloud.com/avatars/jlsolerdeltoro_128.jpg",
+         "gmail": "Darrell.Padberg50@yahoo.com",
+         "phoneNumber": "693.538.0400",
+         "id": "9"
+        },
+        {
+         "createdAt": "2021-07-07T14:22:24.960Z",
+         "name": "Antonia Langworth",
+         "avatar": "https://cdn.fakercloud.com/avatars/juanmamartinez_128.jpg",
+         "gmail": "Retta_Ward@yahoo.com",
+         "phoneNumber": "681-264-3024",
+         "id": "10"
+        },
+        {
+         "createdAt": "2021-07-08T11:41:03.238Z",
+         "name": "Diane Koelpin",
+         "avatar": "https://cdn.fakercloud.com/avatars/vaughanmoffitt_128.jpg",
+         "gmail": "Darwin.Smitham@hotmail.com",
+         "phoneNumber": "(366) 336-8149 x3498",
+         "id": "11"
+        },
+        {
+         "createdAt": "2021-07-07T20:17:41.012Z",
+         "name": "Katherine Barrows III",
+         "avatar": "https://cdn.fakercloud.com/avatars/leandrovaranda_128.jpg",
+         "gmail": "Aliya.Barrows@hotmail.com",
+         "phoneNumber": "(980) 842-0659",
+         "id": "12"
+        },
+        {
+         "createdAt": "2021-07-08T00:37:29.364Z",
+         "name": "Lila Harris",
+         "avatar": "https://cdn.fakercloud.com/avatars/stushona_128.jpg",
+         "gmail": "Isabel.Gusikowski@hotmail.com",
+         "phoneNumber": "891.596.9849",
+         "id": "13"
+        },
+        {
+         "createdAt": "2021-07-08T10:18:35.012Z",
+         "name": "Gertrude Gusikowski",
+         "avatar": "https://cdn.fakercloud.com/avatars/exentrich_128.jpg",
+         "gmail": "Elvera78@hotmail.com",
+         "phoneNumber": "941.755.8625 x56596",
+         "id": "14"
+        },
+        {
+         "createdAt": "2021-07-07T20:24:43.734Z",
+         "name": "Miss Jack Douglas",
+         "avatar": "https://cdn.fakercloud.com/avatars/koridhandy_128.jpg",
+         "gmail": "Christiana.Cruickshank14@gmail.com",
+         "phoneNumber": "561.721.9399",
+         "id": "15"
+        },
+        {
+         "createdAt": "2021-07-07T13:44:43.833Z",
+         "name": "Mrs. Sara Schuster",
+         "avatar": "https://cdn.fakercloud.com/avatars/edhenderson_128.jpg",
+         "gmail": "Gardner4@gmail.com",
+         "phoneNumber": "652-571-2854",
+         "id": "16"
+        },
+        {
+         "createdAt": "2021-07-08T03:16:48.296Z",
+         "name": "Edmond Kertzmann",
+         "avatar": "https://cdn.fakercloud.com/avatars/robergd_128.jpg",
+         "gmail": "Libbie.Weissnat@yahoo.com",
+         "phoneNumber": "451-488-0178 x64538",
+         "id": "17"
+        },
+        {
+         "createdAt": "2021-07-07T16:09:21.859Z",
+         "name": "Tammy Mayert",
+         "avatar": "https://cdn.fakercloud.com/avatars/iamglimy_128.jpg",
+         "gmail": "Dante_Klocko13@gmail.com",
+         "phoneNumber": "959-604-4418",
+         "id": "18"
+        },
+        {
+         "createdAt": "2021-07-07T23:28:13.120Z",
+         "name": "Mrs. Thelma Howe",
+         "avatar": "https://cdn.fakercloud.com/avatars/mvdheuvel_128.jpg",
+         "gmail": "Pauline.Gerhold@gmail.com",
+         "phoneNumber": "(769) 581-5939",
+         "id": "19"
+        },
+        {
+         "createdAt": "2021-07-08T04:57:02.648Z",
+         "name": "Lillie Dickens",
+         "avatar": "https://cdn.fakercloud.com/avatars/juamperro_128.jpg",
+         "gmail": "Derick_Yost94@yahoo.com",
+         "phoneNumber": "(872) 636-1162 x611",
+         "id": "20"
+        }
+       ]
+}

@@ -1,4 +1,4 @@
-# deploy : https://60eea2fae2a346259eafff87--fervent-kilby-aa444b.netlify.app/
+
 
 ## Project setup
 ```

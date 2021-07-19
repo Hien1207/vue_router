@@ -103,7 +103,7 @@ export default {
   display: block;
   margin: 10px 0;
   cursor: pointer;
-  margin-right: 35px;
+  margin-right: 30px;
 }
 .image {
   width: 230px;
@@ -211,7 +211,7 @@ a:hover{
     font-weight: 1;
 }
 .pagi{
-  width: 100%;
+  width: 40%;
   height: 20%;
   margin: 50px 600px;
   font-family: "Courier New", Courier, monospace;

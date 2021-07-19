@@ -182,7 +182,7 @@ a:hover{
     background-color: transparent;
 }
 .container-left{
-  width: 40%;
+  width: 50%;
   display: block;
     overflow: visible;
     height: auto;
